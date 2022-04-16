@@ -1,6 +1,11 @@
 # YouTube Vanced
 YouTube Vanced, YT Music Vanced, Vanced microG & Vanced Manager.<br />
-Note: Without Vanced microG, YouTube Vanced will crash.
+
+YouTube Vanced Dark: Light & Dark theme<br />
+YouTube Vanced Black: Light & AMOLED theme<br />
+
+Note: Without Vanced microG, YouTube Vanced will crash.<br />
+<br />
 
 ## About
 YouTube Vanced is a modified third-party YouTube application for Android with a built-in adblocker. Other features of the app include SponsorBlock, background play, free picture-in-picture (PiP), an AMOLED black theme, swipe control for brightness and volume, and the ability to restore dislike counts on YouTube videos. A YouTube Music version of Vanced was also developed.
